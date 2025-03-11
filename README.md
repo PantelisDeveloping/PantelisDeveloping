@@ -24,14 +24,3 @@ Welcome to my GitHub! I'm passionate about building **scalable AI systems**, aut
 🔹 **Big Data & Cloud**: Apache Spark, Airflow, AWS, GCP, Azure  
 🔹 **Databases**: PostgreSQL, MongoDB, Snowflake  
 🔹 **Version Control & CI/CD**: GitHub Actions, Terraform, Jenkins  
-
----
-
-## 📬 Connect With Me
-
-💼 [LinkedIn](https://www.linkedin.com/in/yourname)  
-🐦 [Twitter](https://twitter.com/yourhandle)  
-📧 Email: your.email@example.com  
-🌐 [Portfolio](https://yourportfolio.com)  
-
-Let's build something amazing together! 🚀
